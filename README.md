@@ -3,3 +3,5 @@
 * kotlin 1.3.11
 * swagger 2
 * mybatis 3.4
+
+## you will happy if you use idea to open this project
